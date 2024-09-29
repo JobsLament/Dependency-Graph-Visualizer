@@ -14,11 +14,4 @@
 **Использование на Google Colab**
 * **Шаг 1**: Установите зависимости !apt-get install graphviz:
 * **Шаг 2**: Загрузите конфигурацию config.xml:
-  
-<config>
-    <graphviz_path>dot</graphviz_path>
-    <package_path>requests</package_path> <!-- Укажите пакет, для которого нужно построить граф -->
-    <output_image_path>output_image.png</output_image_path>
-</config>
-
-* **Шаг 5**: У вас должен будет скачать пнг файл со схемой зависимостей Python 3, apt-utils, Graphviz
+* **Шаг 3**: У вас должен будет скачать пнг файл со схемой зависимостей Python 3, apt-utils, Graphviz
