@@ -1,0 +1,7 @@
+<config>
+	<graphviz_path>...</graphviz_path> <!-- путь к Dot файлу например:
+	C:\graviz\Graphviz\bin\dot.exe-->
+	<package_path>vim</package_path> <!-- Название пакета для получения зависимостей: Например vim -->
+	<output_image_path>...</output_image_path> <!-- Путь для сохранения PNG файла: Например
+	C:\Users\0\PycharmProjects\dz2\output_image.png -->
+</config>
